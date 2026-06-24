@@ -38,6 +38,37 @@ Corremos el servisor de la imagen
 En linea!
 <br/><br/>
 <img width="1910" height="997" alt="image" src="https://github.com/user-attachments/assets/34f82a73-e576-4ee7-9ca3-2768c8561826" />
+<br/><br/>
+
+## Hack #2:
+
+<br/><br/>
+Primero se crea el directorio docker_2
+<br/><br/>
+<img width="442" height="104" alt="image" src="https://github.com/user-attachments/assets/8af31a3d-099f-4c94-acd1-77e2c3ba1f07" />
+<br/><br/>
+Se agrega y edita el Dockerfile
+<br/><br/>
+<img width="1271" height="509" alt="image" src="https://github.com/user-attachments/assets/d2dc8256-d52d-41be-9d18-2f6fb19cffd3" />
+<br/><br/>
+Procedemos con el despliege de la imagen
+<br/><br/>
+<img width="1701" height="502" alt="image" src="https://github.com/user-attachments/assets/87508976-e743-47f1-8d3a-f3c74a701368" />
+<br/><br/>
+Verificamos
+<br/><br/>
+<img width="1699" height="214" alt="image" src="https://github.com/user-attachments/assets/c5bedc52-6257-4305-a3d2-7700029f3a41" />
+<br/><br/>
+En linea!
+<img width="1660" height="106" alt="image" src="https://github.com/user-attachments/assets/ac657b0e-779c-4a94-a75e-268552afc903" />
+<img width="1902" height="994" alt="image" src="https://github.com/user-attachments/assets/82b27ece-bb9e-445c-87b6-2a1218eeb821" />
+<br/><br/>
+
+
+
+
+
+
 
 
 
